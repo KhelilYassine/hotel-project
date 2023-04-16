@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\Gestion Hotel\obj\Debug\Gestion Hotel.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Gestion Hotel\obj\Debug\Gestion Hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Gestion Hotel\obj\Debug\Gestion Hotel.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Gestion Hotel\bin\Debug\Gestion Hotel.exe.config
+C:\Users\pc\Desktop\Gestion Hotel\bin\Debug\Gestion Hotel.exe
+C:\Users\pc\Desktop\Gestion Hotel\bin\Debug\Gestion Hotel.pdb
+C:\Users\pc\Desktop\Gestion Hotel\obj\Debug\Gestion Hotel.exe
+C:\Users\pc\Desktop\Gestion Hotel\obj\Debug\Gestion Hotel.pdb
+C:\Users\Kaito\Desktop\hotel project\obj\Debug\Gestion Hotel.csproj.AssemblyReference.cache
+C:\Users\Kaito\Desktop\hotel project\obj\Debug\Gestion Hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaito\Desktop\hotel project\obj\Debug\Gestion Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Kaito\Desktop\hotel project\obj\Debug\Gestion Hotel.exe
+C:\Users\Kaito\Desktop\hotel project\obj\Debug\Gestion Hotel.pdb
