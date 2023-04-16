@@ -31,7 +31,7 @@ namespace Gestion_Hotel
 
 
             // Attendez une saisie de l'utilisateur avant de fermer la fenêtre de console
-            Console.WriteLine("Clicker sur une toucher pour quitter...");
+            Console.WriteLine("Appuyez sur une touche pour quitter...");
             Console.ReadKey();
         }
 
